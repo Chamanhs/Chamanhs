@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chamanhs
+- 👋 Hi, I’m Vaibhav 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
